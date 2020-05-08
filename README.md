@@ -4,7 +4,7 @@
 
 テックなやつからエッチなやつまでなんでも突っ込んでも誰にもバレない。
 
-![example](./sample.ong "example")
+![example](./sample.png "example")
 
 ## 使い方
 
