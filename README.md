@@ -4,7 +4,9 @@
 
 テックなやつからエッチなやつまでなんでも突っ込んでも誰にもバレない。
 
-![example](./sample.png "example")
+<div align="center">
+　　<img src="./sample.png" alt="example" title="example" widht='500px' height='500px' margin='auto'>
+</div>
 
 ## 使い方
 
